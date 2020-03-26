@@ -1,6 +1,6 @@
 <?php
 define("ROOT", "http://localhost/app");
-define("SITE", "#TO DO List Enterprise");
+define("SITE", '#TO DO List');
 
 define("DATA_LAYER_CONFIG", [
     "driver" => "mysql",
