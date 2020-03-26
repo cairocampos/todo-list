@@ -14,6 +14,5 @@ return array(
     'bdc465a053da7f7ddb072631f6d41d45' => $vendorDir . '/league/plates/src/Extension/LayoutSections/layout-sections.php',
     'afa76803f24616d7599be3b7b0846adc' => $vendorDir . '/league/plates/src/Extension/Folders/folders.php',
     '16c5be35e32c6cf916d875518b909210' => $vendorDir . '/league/plates/src/Util/util.php',
-    'e2c955e511e5f564aa0f014c8c692a9b' => $baseDir . '/source/Boot/Config.php',
-    '49bd436aa3d368dd09f47c18258486c5' => $baseDir . '/source/Boot/Helpers.php',
+    '1e94f5c3f32bf34512b9777635ca6960' => $baseDir . '/source/Config.php',
 );

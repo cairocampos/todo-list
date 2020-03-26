@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "ed51cd329dbdbb34399696383656781e",
+    "content-hash": "f64888832ec3614ff6b75f9e90978291",
     "packages": [
         {
             "name": "coffeecode/datalayer",

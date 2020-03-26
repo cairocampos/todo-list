@@ -1,16 +1,25 @@
 {
-    "autoload":{
-        "psr-4": {
-            "Source\\":"source"
-        },
-        "files": [
-            "source/Boot/Config.php",
-            "source/Boot/Helpers.php"
-        ]
-    },
-    "require":{
-        "league/plates":"v4.0.0-alpha",
-        "coffeecode/router": "^1.0",
-        "coffeecode/datalayer": "^1.0"
+  "name": "robsonvleite/phptips013",
+  "description": "TRABALHANDO COM REQUISIÇÕES AJAX EM MVC",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Robson V. Leite",
+      "email": "cursos@upinside.com.br"
     }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Source\\": "source/"
+    },
+    "files": [
+      "source/Config.php"
+    ]
+  },
+  "require": {
+    "coffeecode/router": "1.0.*",
+    "coffeecode/datalayer": "1.1.*",
+    "league/plates": "v4.0.0-alpha"
+  }
 }
